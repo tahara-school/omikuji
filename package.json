@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tahara-school/omikuji/issues"
   },
-  "homepage": "https://github.com/tahara-school/omikuji#readme"
+  "homepage": "https://github.com/tahara-school/omikuji#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
